@@ -1,0 +1,7 @@
+[project]
+authors = ["Lokesh Kumar <hello@lokeshkr.com>"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "uniswap-v2"
+
+[dependencies]
